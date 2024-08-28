@@ -1,0 +1,16 @@
+{
+  "name": "rocco",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "abrir" : "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.14.0"
+  }
+}
